@@ -72,6 +72,3 @@ Filters: Work between 3 PM to 6 PM, Tweet Engagement should be even number, Twee
 # Conclusion
 This Twitter Analytics Dashboard demonstrates how Power BI can be used to track and analyze key Twitter performance metrics. The dashboard offers dynamic
 visualizations to uncover patterns and significant trends in media engagements and tweet interactions.
-
-# Conclusion
-This Twitter Analytics Dashboard demonstrates how Power BI can be used to track and analyze key Twitter performance metrics. The dashboard offers dynamic visualizations to uncover patterns and significant trends in media engagements and tweet interactions.
